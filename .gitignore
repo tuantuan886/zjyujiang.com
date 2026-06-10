@@ -1,0 +1,11 @@
+_research/
+Thumbs.db
+.DS_Store
+.deploy/
+.tencent-cloud-browser/
+.github-browser/
+.github-cli/
+.github-login.cmd
+.github-device-login.out
+.github-device-login.err
+腾讯云部署登录.cmd
